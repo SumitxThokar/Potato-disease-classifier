@@ -5,4 +5,7 @@ This project is a potato disease classifier implemented using Convolutional Neur
 ### Model Architecture
 The classifier utilizes a CNN architecture, which is well-suited for image classification tasks. The architecture consists of multiple convolutional layers, followed by pooling layers to downsample the feature maps. This is followed by fully connected layers, which enable the network to learn complex relationships between the extracted features and the disease classes. The final layer employs a softmax activation function to output the predicted probabilities for each disease class.
 
-![model](https://github.com/SumitxThokar/Potato-disease-classifier/blob/main/Potato.ipynb)
+<br>
+
+
+![model](https://github.com/SumitxThokar/Potato-disease-classifier/blob/main/potato.jpg)
